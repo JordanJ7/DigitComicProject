@@ -186,7 +186,7 @@
                  </cbml:balloon>
               </cbml:panel>
               
-              <cbml:panel n="18" characters="#monster #gojo"> <!-- needs a note, might not be the monster, -->
+              <cbml:panel n="18" characters="jogo #gojo"> <!-- needs a note, might not be the monster, -->
                  <sound>
                     ZSHHH
                  </sound>
@@ -208,7 +208,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="21" characters="#gojo #monster">
+              <cbml:panel n="21" characters="#gojo jogo">
                  <sound>
                     GRK
                  </sound>
@@ -216,7 +216,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="22" characters="#gojo #monster">
+              <cbml:panel n="22" characters="#gojo jogo">
                  <sound>
                     VUM
                  </sound>
@@ -232,7 +232,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="24" characters="#monster">
+              <cbml:panel n="24" characters="jogo">
                  <note type="panelDesc"> The monster stands, not looking at it's missing arm.              
                  </note>
               </cbml:panel>
