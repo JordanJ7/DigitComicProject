@@ -30,9 +30,7 @@
      <body>
            <div>
               <cbml:panel n="0" characters="#gojo">
-                 <cbml:caption type="top">
-                    CHAPTER 89: THE SHIBUYA INCIDENT, PART7
-                 </cbml:caption>
+                 <cbml:caption type="top">CHAPTER 89: THE SHIBUYA INCIDENT, PART7</cbml:caption>
                  
                  <note type="panelDesc"> Gojo stare directly into the camera, bust shot.
               </note>
@@ -185,7 +183,7 @@
                  </cbml:balloon>
               </cbml:panel>
               
-              <cbml:panel n="18" characters="jogo #gojo"> <!-- needs a note, might not be the monster, -->
+              <cbml:panel n="18" characters="#monster #gojo"> <!-- needs a note, might not be the monster, -->
                  <sound>
                     ZSHHH
                  </sound>
@@ -207,7 +205,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="21" characters="#gojo jogo">
+              <cbml:panel n="21" characters="#gojo #monster">
                  <sound>
                     GRK
                  </sound>
@@ -215,7 +213,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="22" characters="#gojo jogo">
+              <cbml:panel n="22" characters="#gojo #monster">
                  <sound>
                     VUM
                  </sound>
@@ -231,7 +229,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="24" characters="jogo">
+              <cbml:panel n="24" characters="#monster">
                  <note type="panelDesc"> The monster stands, not looking at it's missing arm.              
                  </note>
               </cbml:panel>
