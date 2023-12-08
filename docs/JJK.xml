@@ -34,7 +34,8 @@
                  
                  <note type="panelDesc"> Gojo stare directly into the camera, bust shot.
               </note>
-              </cbml:panel>    
+              </cbml:panel> 
+              
               <cbml:panel n="1" characters="#crowd">
                  <cbml:caption type="speech" who="#crowd">
                     AHHHHH
@@ -61,7 +62,8 @@
                  </note>
               </cbml:panel>
                             
-              <cbml:panel n="4" characters="#gojo">              
+              <cbml:panel n="4" characters="#gojo">
+              <sound>WHAP</sound>
               <note type="panelDesc"> Gojo turns to face Patchface.
               </note>
               </cbml:panel>
@@ -116,6 +118,7 @@
                  <cbml:balloon type="speech" who="#patchface"> 
                     THERE'S SO MANY OF THEM.
                  </cbml:balloon>
+                 <note>Patchface points up at the falling crowd, looking smug.</note>
               </cbml:panel>
               
               <cbml:panel n="11" characters="#gojo">
@@ -167,9 +170,10 @@
                     SOUL MULTIPLICITY
                  </cbml:caption>
                  <cbml:caption type="topRight">
-                    IDELE TRANSFIGURATION
+                    IDLE TRANSFIGURATION
                  </cbml:caption>
                </cbml:panel>
+              <note type="panelDesc"> Patchface makes a ball of energy in his hands.</note>
               
               <cbml:panel n="16" characters="#patchface">
                  <cbml:balloon type="speech" who="#patchface"> 
@@ -177,8 +181,8 @@
                  </cbml:balloon>
               </cbml:panel>
               
-              <cbml:panel n="17" characters="#unnamed"> <!-- COME BACK TO CHANGE UNNAMED TO HIS NAME -->
-                 <cbml:balloon type="speech" who="#unnamed"> 
+              <cbml:panel n="17" characters="#choso">
+                 <cbml:balloon type="speech" who="#choso"> 
                     SUPERNOVA.
                  </cbml:balloon>
               </cbml:panel>
@@ -217,7 +221,7 @@
                  <sound>
                     VUM
                  </sound>
-                 <note type="panelDesc"> Gojo rips off the arm.              
+                 <note type="panelDesc"> Gojo rips off its arm.              
                  </note>
               </cbml:panel>
               
@@ -257,13 +261,57 @@
                  <cbml:caption type="thought" who="#patchface"> 
                     SATORU GOJO IS DIFFERENT FROM YUJI ITADORI IN THAT... 
                  </cbml:caption>
-                 <cbml:caption type="thought" who="#gojo">
+                 <cbml:caption type="thought" who="#patchface">
                     ... HE IS CAPABLE OF BEING COLD HEARTED..                    
                  </cbml:caption>
-                 <note type="panelDesc"> Gojo looks shocked, his right hand moving forwards. 
-                 </note> 
+                </cbml:panel>
+              
+              <cbml:panel n="28" characters="#patchface">
+                 <cbml:caption type="thought" who="#patchface"> 
+                    HOWEVER NOW THAT THE CASUALTIES ARE MOUNTING AND MORE LIVE HUMANS ARE ENTERING THE FRAY.... 
+                 </cbml:caption>
+                 <cbml:caption type="thought" who="#patchface">
+                    ...HE'S NEARING THE LIMIT OF WHAT'S HE'S WILLING TO SACRIFICE.              
+                 </cbml:caption>
+               </cbml:panel>
+              
+              <cbml:panel n="29" characters="#patchface">
+                 <cbml:caption type="thought" who="#patchface">
+                    YOU'VE BEEN PUT IN A POSITION WHERE YOUR ONLY OPTION IS TO CAST A DOMIAN.              
+                 </cbml:caption>
+                 <cbml:caption type="thought" who="#patchface">
+                    BY USING UNLIMITED VOID, YOU COULD KILL US CURSES, BUT YOU'D ALSO KILL EVERY PERSON HERE!              
+                 </cbml:caption>
               </cbml:panel>
               
+              <cbml:panel n="30" characters="#patchface">
+                 <cbml:caption type="thought" who="#patchface"> 
+                    YOU COULD SAVE EVERYONE OUTSIDE OF THE DOMAIN, PLUS EVERYONE NOT DOWN HERE IN THE FIFTH-FLOOR BASEMENT! BUT YOU CAN'T! YOU WON'T!!
+                 </cbml:caption>
+                 <cbml:caption type="thought" who="#patchface">
+                    YOUR CONCEPT OF SACRIFICE IS LIMITED TO THE HUMANS WHO ARE KILLED BY CURSES, NOT ONES KILLED BY SATORU GOJO!             
+                 </cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="31" characters="#patchface">
+                 <cbml:balloon type="speech" who="#patchface"> 
+                    YOU SERIOUS? 
+                 </cbml:balloon>
+                 <note type="panelDesc"> Patchface looks confused.</note>
+              </cbml:panel>
+              
+              <cbml:panel n="32" characters="#choso #monster">
+                 <note type="panelDesc"> Both characters look distressed.</note>
+              </cbml:panel>
+              
+              <cbml:panel n="33" characters="#gojo">
+                 <cbml:caption type="thought" who="#gojo"> 
+                    I'LL MAKE YOU THINK AND AGONIZE!
+                 </cbml:caption>
+                 <cbml:caption type="thought" who="#gojo"> 
+                    CONCENTRATE!
+                 </cbml:caption>
+              </cbml:panel>
         </div>
         <pb/>    
       </body>
