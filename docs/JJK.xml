@@ -312,6 +312,104 @@
                     CONCENTRATE!
                  </cbml:caption>
               </cbml:panel>
+              
+              <cbml:panel n="34" characters="#gojo">
+                 <cbml:balloon type="speech" who="#gojo"> 
+                    ...EXPANSION!
+                 </cbml:balloon>
+                 <cbml:caption type="speech" who="#gojo"> 
+                    VOID
+                 </cbml:caption>
+                 <note type="panelDDesc">A burst of wind comes from the expansion.</note>
+              </cbml:panel>
+              
+              <cbml:panel n="35" characters="#gojo">
+                 <cbml:balloon type="speech" who="#gojo"> 
+                    DOMIAN...
+                 </cbml:balloon>
+                 <cbml:caption type="speech" who="#gojo"> 
+                    UNLIMITED
+                 </cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="36" characters="#patchface">
+                 <note type="panelDesc">Patchface looks at the Domian Expansion, surprised.</note>
+              </cbml:panel>
+              
+              <cbml:panel n="37" characters="#yuji">
+                 <cbml:caption type="thought" who="#yuji"> 
+                    A DOMAIN EXPANSION OF 0.2 SECONDS!
+                 </cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="38">
+                 <sound>
+                    FSH
+                 </sound>
+              </cbml:panel>
+              
+              <cbml:panel n="39" characters="#patchface">
+                 <cbml:caption type="thought" who="#patchface"> 
+                    SATORU GOJO'S ALL-OR-NOTHING GAMBLE...
+                 </cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="40-43" characters="#patchface #monster #choso #crowd">
+                 <note type="panelDesc">Everyone stares at the Domain Expansion.
+                 </note>
+              </cbml:panel>
+              
+              <cbml:panel n="44" characters="#crowd">
+                 <note type="panelDesc">The crowd stands still, completly motionless.
+                 </note>
+              </cbml:panel>
+              
+              <cbml:panel n="45" characters="#yuji">
+                 <note type="panelDesc">A distressed and blood splattered Yuji looks surprised.
+                 </note>
+                 <sound>
+                    CHK CHK
+                 </sound>
+              </cbml:panel>
+              
+              <cbml:panel n="46" characters="#patchface">
+                 <cbml:caption type="thought" who="#patchface"> 
+                    IN THE AFTERMATH, THE HUMANS AT B5F WHO SURVIVED WOULD BE REHABILITATED AND ABLE TO REJOIN SOCIETY TWO MONTHS LATER.
+                    SIMPLY SPEAKING, THIS LEVEL OF UNLIMITED VOID...
+                    ...COULD ALLOW THE SPECIAL GRADE CURSES TO AWAKEN AT ANY MOMENT.
+                    TAKING INTO CONSIDERATION A COUNTER-ATTACK, THE TARGETS WOULD BE NARROWED DOWN TO TRANSFIGURED HUMANS.
+                 </cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="47" characters="#patchface">
+                 <note type="panelDesc">Blood flows from people in the crowd, their minds bursting with information.</note>
+                 <sound>
+                    GRCHK CHK CHK CHK CHK
+                 </sound>
+                 <cbml:caption type="thought" who="#patchface"> 
+                    THE TIME WAS JUST A GUESS.
+                    GOJO CONJECTURED THAT A NON-SORCERER COULD WITHSTAND 02 SECONDS INSIDE THE DOMAIN WITHOUT SUFFERNG LASTING EFFECTS.
+                    ALTHOUGH THIS IS JUST A ROUGH ESTIMATE, THE AMOUNT OF INFORMATION THAT FLOODED THE BRAINS OF THE NON-SORCERERS, INCLUDING THOSE TRANSFIGURED HUMANS, WAS ABOUT A HALF YEAR'S WORTH. EVERYONE WAS LEFT STANDING, UNCONSCIOUS.
+                 </cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="47" characters="#patchface">
+                 <cbml:caption type="thought" who="#patchface"> 
+                    THE APPROXIMATELY 1000 TRANSFIGURED HUMANS WHO HAD BEEN RELEASED WITHIN BSF OF THE FUKUTOSHIN LINE WOULD BE ANNIHILATED 299 SECONDS...
+                    ...AFTER THE DEACTIVATION OF THE DOMAIN...
+                    ...AT THE HANDS OF THE STRONGEST JUJUTSU SORCERER ALIVE!
+                 </cbml:caption>
+                 <note type="panelDesc">Gojo holds the heads of two of the transfigured humans he has killed.</note>                 
+              </cbml:panel>
+              
+              <cbml:panel n="48-49" characters="#gojo"> 
+                 <note type="panelDesc">Gojo turns to notice a sealed box on the ground. This is the door to the Prison Realm.</note>                 
+              </cbml:panel>
+              
+              <cbml:panel n="50" characters="#geto"> 
+                 <cbml:balloon type="speech">PRISON REALM...</cbml:balloon>                 
+                 <cbml:balloon type="speech">...GATE OPEN.</cbml:balloon>                 
+              </cbml:panel>
         </div>
         <pb/>    
       </body>
