@@ -187,7 +187,7 @@
                  </cbml:balloon>
               </cbml:panel>
               
-              <cbml:panel n="18" characters="#monster #gojo"> <!-- needs a note, might not be the monster, -->
+              <cbml:panel n="18" characters="#jogo #gojo"> <!-- needs a note, might not be the monster, -->
                  <sound>
                     ZSHHH
                  </sound>
@@ -209,7 +209,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="21" characters="#gojo #monster">
+              <cbml:panel n="21" characters="#gojo #jogo">
                  <sound>
                     GRK
                  </sound>
@@ -217,7 +217,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="22" characters="#gojo #monster">
+              <cbml:panel n="22" characters="#gojo #jogo">
                  <sound>
                     VUM
                  </sound>
@@ -233,7 +233,7 @@
                  </note>
               </cbml:panel>
               
-              <cbml:panel n="24" characters="#monster">
+              <cbml:panel n="24" characters="#jogo">
                  <note type="panelDesc"> The monster stands, not looking at it's missing arm.              
                  </note>
               </cbml:panel>
@@ -300,7 +300,7 @@
                  <note type="panelDesc"> Patchface looks confused.</note>
               </cbml:panel>
               
-              <cbml:panel n="32" characters="#choso #monster">
+              <cbml:panel n="32" characters="#choso #jogo">
                  <note type="panelDesc"> Both characters look distressed.</note>
               </cbml:panel>
               
@@ -354,7 +354,7 @@
                  </cbml:caption>
               </cbml:panel>
               
-              <cbml:panel n="40-43" characters="#patchface #monster #choso #crowd">
+              <cbml:panel n="40-43" characters="#patchface #jogo #choso #crowd">
                  <note type="panelDesc">Everyone stares at the Domain Expansion.
                  </note>
               </cbml:panel>
@@ -407,9 +407,243 @@
               </cbml:panel>
               
               <cbml:panel n="50" characters="#geto"> 
-                 <cbml:balloon type="speech">PRISON REALM...</cbml:balloon>                 
-                 <cbml:balloon type="speech">...GATE OPEN.</cbml:balloon>                 
+                 <cbml:balloon type="speech" who="geto">PRISON REALM...</cbml:balloon>                 
+                 <cbml:balloon type="speech" who="geto">...GATE OPEN.</cbml:balloon>                 
               </cbml:panel>
+              
+              <cbml:panel n="51" characters="#author"> 
+                 <cbml:caption>Scenes | was planning on addressing but forgot about until now, part 1</cbml:caption>                 
+                 <cbml:caption>* Phasing through walls</cbml:caption>
+                 <sound>
+                    FSHHH
+                 </sound>
+                 <note type="panelDesc">A hairy character phases through a wall.</note>
+                 <cbml:caption>Phasing through walls is an ability that can be performed by those with low cursed energy, specifically low-grade cursed spirits. Sorcerers and cursed spirits who possess a substantial amount of cursed energy cannot do this.</cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="52" characters="#geto"> 
+                 <cbml:caption type="title">CHAPTER ЧО: THE SHIBUYA INCIDENT, PART 8</cbml:caption>                 
+                 <note type="panelDesc">Pseudo-Geto smears blood on his forehead.</note>                 
+              </cbml:panel>
+              
+              <cbml:panel n="53" characters="#geto"> 
+                    <sound>
+                       KLAK
+                    </sound>
+                 <cbml:balloon type="speech" who="geto">THERE IS NOTHING PRISON REALM CAN'T SEAL.</cbml:balloon>                 
+                 <cbml:balloon type="speech" who="geto">PRISON REALM IS A LIVING BARRIER-THE FINAL REMAINS OF THE BUDDHIST MONK GENSHIN.</cbml:balloon>       
+                 <note type="panelDesc">Geto places a piece on a board.</note>
+              </cbml:panel>
+              
+              <cbml:panel n="54" characters="#geto">
+                 <cbml:balloon type="speech" who="geto">BUT THEN THERE MUST BE...</cbml:balloon>                 
+                 <sound>
+                    KLIK
+                 </sound>
+                 <cbml:balloon type="speech" who="geto">...CONDITIONS TO USING IT.</cbml:balloon>  
+                 <note type="panelDesc">Geto slides the pieces together.</note>
+              </cbml:panel>
+              
+              <cbml:panel n="55" characters="#geto #jogo #patchface"> 
+                 <cbml:balloon type="speech" who="geto">ONE MINUTE.</cbml:balloon>                 
+                 <cbml:balloon type="speech" who="jogo">WHAT?</cbml:balloon>
+              </cbml:panel>
+              
+              <cbml:panel n="56-60" characters="#geto #jogo #patchface"> 
+                 <cbml:balloon type="speech" who="geto">AFTER OPENING THE PRISON REALM...</cbml:balloon>                 
+                 <cbml:balloon type="speech" who="geto">...WE HAVE TO KEEP SATORU GOJO...</cbml:balloon>       
+                 <cbml:balloon type="speech" who="geto">...WITHIN A FOUR-METER RADIUS FOR ONE MINUTE.</cbml:balloon>       
+                 <note type="panelDesc">Geto places a piece on a board.</note>
+                 <sound>
+                    KLAK KLIK
+                 </sound>
+                 <sound>
+                    KLAK KUNK
+                 </sound>
+                 <sound>
+                    KILK KUNK
+                 </sound>
+                 <cbml:balloon type="speech" who="jogo">HEY.</cbml:balloon>                 
+               </cbml:panel>
+              
+              <cbml:panel n="61" characters="#jogo"> 
+                 <cbml:balloon type="speech" who="jogo">I'M GONNA BURN YOU ALIVE.</cbml:balloon>     
+                 <note type="panelDesc">Jogo stares at Geto, intently.</note>             
+              </cbml:panel>
+              
+              <cbml:panel n="62" characters="#jogo"> 
+                 <sound>
+                    KRRSHAK
+                 </sound>
+                 <note type="panelDesc">Jogo swipes the pieces off the table.</note>             
+              </cbml:panel>
+              
+              <cbml:panel n="63" characters="#jogo #geto"> 
+                 <cbml:balloon type="speech" who="jogo">SURELY...</cbml:balloon>     
+                 <cbml:balloon type="speech" who="jogo">...YOU DIDN'T...</cbml:balloon>     
+                 <cbml:balloon type="speech" who="jogo">...TEAM UP WITH US...</cbml:balloon>     
+                 <cbml:balloon type="speech" who="jogo">...TO ASSIGN SUCH AN IMPOSSIBLE TASK, DID YOU?!</cbml:balloon>     
+                 <note type="panelDesc">Jogo yells at Geto, who is holding a piece, looking smug.</note>             
+              </cbml:panel>
+              
+              <cbml:panel n="64-67" characters="#jogo #geto"> 
+                 <cbml:balloon type="speech" who="jogo">AGAINST THAT?! UNDER THOSE CIRCUMSTANCES?!</cbml:balloon>     
+                 <note type="panelDesc">A small drawing of Gojo labeled "THAT"</note>
+                 <cbml:balloon type="speech" who="jogo">EVEN А THOUSAND MEASLY HUMAN LIVES WOULDNT BE ENOUGH TO DISTRACT HIM!</cbml:balloon>     
+                 <cbml:balloon type="speech" who="geto">THINGS ARE GETTING A LITTLE HEATED HERE, JOGO...</cbml:balloon>     
+                 <cbml:balloon type="speech" who="geto">DON'T WORRY.</cbml:balloon>    
+                 <sound>
+                    KLIK
+                 </sound>
+                 <cbml:balloon type="speech" who="geto">WHEN I SAY ONE MINUTE...</cbml:balloon>
+                 <note type="panelDesc">Gojo stares at the box, frightened.</note>             
+              </cbml:panel>
+              
+              <cbml:panel n="68-70" characters="#gojo"> 
+                 <cbml:balloon type="speech" who="geto">GATE...</cbml:balloon>     
+                 <cbml:balloon type="speech" who="geto">...OPEN!</cbml:balloon>     
+                 <sound>
+                    KRAK
+                 </sound>   
+                 <sound>
+                    KCHK KCHK KCHK 
+                 </sound>
+                 <note type="panelDesc">The box opens, revealing a fleshy interior and a large eye in the center.</note>             
+              </cbml:panel>
+              
+              <cbml:panel n="71-75" characters="#gojo"> 
+                 <note type="panelDesc">Gojo and the large eye stare at each other, until Gojo turns to run.</note>             
+              </cbml:panel>
+              
+              <cbml:panel n="68-70" characters="#gojo #geto"> 
+                 <cbml:balloon type="speech" who="geto">YO!</cbml:balloon>     
+                 <cbml:balloon type="speech" who="geto">SATORU!</cbml:balloon>
+                 <cbml:balloon type="speech" who="gojo">HUH?</cbml:balloon>
+              </cbml:panel>
+              
+              <cbml:panel n="71-79" characters="#gojo #geto"> 
+                 <cbml:balloon type="speech" who="geto">IT'S BEEN A WHILE.</cbml:balloon>     
+                 <cbml:caption>WHAT STOOD THERE...</cbml:caption>
+                 <cbml:caption>...WAS SOMEBODY HE'D KILLED WITH HIS OWN HANDS A YEAR BEFORE.</cbml:caption>
+                 <cbml:caption>HIS BEST FRIEND.</cbml:caption>
+                 <cbml:caption>IS THIS SOME KIND OF TRANSFORMATION TECHNIQUE?</cbml:caption>
+                 <cbml:caption>IS HE A FAKE?</cbml:caption>
+                 <cbml:caption>ALL THE POSSIBILITIES...</cbml:caption>
+                 <cbml:caption type="thought" who="gojo">HE'S REAL...!</cbml:caption>
+                 <cbml:caption>...WERE REJECTED BY HIS SIX EYES.</cbml:caption>
+                 <cbml:caption>AND THEN IT ALL CAME FLOWING INTO HIS BRAIN.</cbml:caption>
+                 <cbml:caption type="thought" who="gojo">THREE YEARS...</cbml:caption>
+                 <cbml:caption type="thought" who="gojo">...OF HIS YOUTH.</cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="80-81" characters="#geto">
+                 <sound>
+                    FWAT
+                 </sound>  
+                 <cbml:balloon type="speech" who="geto">DON'T WORRY.</cbml:balloon>    
+                 <cbml:balloon type="speech" who="geto">WHEN I SAY ONE MINUTE...</cbml:balloon>    
+                 <cbml:balloon type="speech" who="geto">IT'S ONE MINUTE'S WORTH OF TIME...</cbml:balloon>    
+                 <cbml:balloon type="speech" who="geto">...INSIDE GOJO'S BRAIN.</cbml:balloon>               
+              </cbml:panel>
+              
+              <cbml:panel n="82-83" characters="#gojo">
+                 <sound>
+                    VWOOF
+                 </sound>  
+                 <sound>
+                    KCHK KCHK KCHK
+                 </sound>             
+              </cbml:panel>
+              
+              <cbml:panel n="84-86" characters="#gojo #geto"> 
+                 <sound>
+                    KCHK
+                 </sound>
+                 <cbml:caption>EVEN THOUGH IT WAS JUST AN INSTANT...</cbml:caption>
+                 <cbml:caption>...FOR SATORU GOJO, ONE MINUTE HAD ALREADY PASSED...</cbml:caption>
+              </cbml:panel>
+              
+              <cbml:panel n="87-90" characters="#gojo #geto"> 
+                 <cbml:caption type="thought" who="#gojo">DAMMIT! THEY GOT ME!!</cbml:caption> 
+                 <cbml:balloon type="speech" who="#gojo">TCH!</cbml:balloon>
+                 <cbml:balloon type="speech" who="#geto">C'MON NOW, SATORU.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#geto">ARE YOU LETTING YOUR MIND WANDER DURING A FIGHT?</cbml:balloon>
+                 <cbml:caption type="thought" who="#gojo">I CAN'T FEEL ANY CURSED ENERGY IN MY BODY. I CAN'T MOVE A MUSCLE EITHER.</cbml:caption>
+                 <cbml:caption type="thought" who="#gojo">THIS IS CHECKMATE...</cbml:caption>
+                 <cbml:balloon type="speech" who="#gojo">SO...</cbml:balloon>            
+              </cbml:panel>
+              
+              <cbml:panel n="91-95" characters="#gojo #geto"> 
+                 <cbml:balloon type="speech" who="#gojo">WHO ARE YOU?</cbml:balloon> 
+                 <cbml:balloon type="speech" who="#geto">SUGURU GETO, OF COURSE.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#geto">DID YOU FORGET?</cbml:balloon>
+                 <cbml:balloon type="speech" who="#geto">HOW SAD.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#gojo">YOUR BODY...AND EVEN YOUR CURSED ENERGY...</cbml:balloon>
+                 <cbml:balloon type="speech" who="#gojo">MY SIX EYES TELL ME...</cbml:balloon>
+                 <cbml:balloon type="speech" who="#gojo">YOU'RE SUGURU GETO.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#gojo">BUT MY SOUL KNOWS OTHERWISE!</cbml:balloon>
+                 <cbml:balloon type="speech" who="#gojo">HURRY UP AND ANSWER!!</cbml:balloon>
+                 <cbml:balloon type="speech" who="#gojo">WHO THE HELL ARE YOU?!</cbml:balloon>        
+              </cbml:panel>
+              
+              <cbml:panel n="96-97" characters="#gojo #kenjaku"> 
+                 <sound>
+                    SWWIP
+                 </sound>
+                 <cbml:balloon type="speech" who="#kenjaku">YEESH!</cbml:balloon>
+                 <sound>
+                    SHWUP
+                 </sound>
+                 <cbml:balloon type="speech" who="#kenjaku">HOW'D YOU KNOW?</cbml:balloon>
+              </cbml:panel>
+              
+              <cbml:panel n="98-100" characters="#gojo #kenjaku"> 
+                 <cbml:balloon type="speech" who="#gojo">GRK</cbml:balloon> 
+                 <cbml:balloon type="speech" who="#kenjaku">IT'S A CURSED TECHNIQUE THAT ALLOWS ME TO HOP BETWEEN BODIES SWITCHING BRAINS.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#kenjaku">OF COURSE, IT LET'S ME USE THIS BODY'S TECHNIQUES AS WELL.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#kenjaku">I COVETED HIS CURSED MANIPULATION AND THESE EXACT CIRCUMSTANCES.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">YOU...</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku ">...DIDN'T HAVE SHOKO IEIRI PERSONALLY GIT RID OF SUGURU GETO'S BODY, DID YOU?</cbml:balloon>      
+              </cbml:panel>
+              
+              <cbml:panel n="101-104" characters="#gojo #kenjaku"> 
+                 <cbml:balloon type="speech" who="#gojo">GRIK GRK</cbml:balloon> 
+                 <cbml:balloon type="speech" who="#kenjaku">YOU'RE ONLY CONSIDERATE DURING SUCH AWKWARD MOMENTS.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#kenjaku">THANKS TO THAT, I WAS ABLE TO OBTAIN THIS BODY WITHOUT MUCH TROUBLE.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#kenjaku">BUT DON'T WORRY. THE SEAL WILL BE OVER SOON ENOUGH.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">IN A HUNDRED... NO, MAYBE THOUSAND YEARS.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">YOU KNOW, YOU'RE JUST TOO STRONG.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">YOU'RE IN THE WAY OF MY PLANS.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#gojo">HEH!</cbml:balloon>
+                 <cbml:balloon type="speech" who="#gojo">YOU DON'T REMEMBER? BEFORE THAT BODY...</cbml:balloon>
+                 <cbml:balloon type="speech" who="#gojo">...WAS KILLED BY ME. REMEMBER WHO BEAT IT UP?</cbml:balloon>
+              </cbml:panel>
+              
+              <cbml:panel n="105-110" characters="#kenjaku #gojo"> 
+                 <cbml:balloon type="speech" who="#kenjaku">YUTA OKKOYSU, HUH?</cbml:balloon> 
+                 <cbml:balloon type="speech" who="#kenjaku">I DON'T REALLY GET WHAT EVERYONE SEES IN HIM.</cbml:balloon>
+                 <sound>
+                    SNAP
+                 </sound>
+                 <cbml:balloon type="speech" who="#kenjaku">HIS ABILITY TO COPY CURSED TECHNIQUES.</cbml:balloon>
+                 <cbml:balloon type="speech" who="#kenjaku">AND HIS BOUNDLESS CURSED ENERGY.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">BOTH ARE THE RESULT OF HIM HAVING TO DETAIN HIS LOVED ONE'S SOUL.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">SORRY TO SAY BUT...</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">YUTA OKKOTSU CAN'T BECOME THE NEXT SATORU GOJO.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">GOOD NIGHT, SATORU GOJO.</cbml:balloon>      
+                 <cbml:balloon type="speech" who="#kenjaku">LET US MEET AGAIN IN THE NEW WORLD.</cbml:balloon>      
+              </cbml:panel>
+              
+              <cbml:panel n="111-114"> 
+                 <cbml:balloon type="speech" who="yuji">WHAT THE-?!</cbml:balloon> 
+                 <cbml:balloon type="speech" who="uiui">!!</cbml:balloon>
+                 <cbml:balloon type="speech" who="uiui">WHAT'S WRONG?</cbml:balloon>
+                 <cbml:balloon type="speech" who="yuji">THERE'S...</cbml:balloon>
+                 <cbml:balloon type="speech" who="yuji">...SOMETHING ON MY EAR.</cbml:balloon>
+                 <cbml:balloon type="speech" who="muta">CAN YOU HEAR ME? YUJI ITADORI?</cbml:balloon>
+                 <cbml:balloon type="speech" who="yuji">!!</cbml:balloon>
+              </cbml:panel>
+              
         </div>
         <pb/>    
       </body>
